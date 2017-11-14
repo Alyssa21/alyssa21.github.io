@@ -1,7 +1,10 @@
+html {
+   height: 100%;
+}
+
 body{
-   html hight: 100%
    background-image: url("https://www.whydodogs.com/wp-content/uploads/2015/10/file000279433849.jpg");
-background position:center, center;
+   background position:center, center;
    background-size: cover;
 }
 
